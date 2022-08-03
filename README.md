@@ -4,7 +4,7 @@
 Simple meme API for sending memes to my friends when having a meme competition.
 
 
-## API Reference
+## 📑 API Reference
 
 #### Get all meme links 
 
