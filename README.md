@@ -35,7 +35,7 @@ Simple meme API for sending memes to my friends when having a meme competition.
 
 | Parameter | Type     | Description                       |
 | :-------- | :------- | :-------------------------------- |
-| `meme_category`      | `string` | **Required**. Id of item to fetch |
+| `meme_category`      | `string` | **Required**. Category from which memes are fetched from. |
 
 *Sample Response*
 
