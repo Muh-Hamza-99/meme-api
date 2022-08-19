@@ -1,5 +1,4 @@
 import os
-from this import d
 import dotenv 
 import praw
 import urllib.parse as parse
